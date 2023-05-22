@@ -1,0 +1,16 @@
+Iocla tema 2
+
+task1
+Merg in paralel cu un contor de la 0 pt plaintext si de la len-1 pt cheie, fac xor
+intre cele 2 valori si apoi le pun in pozitia corespunzatoare din ciphertext.
+Explicatii pt fiecare instructiune in comentarii
+
+task2
+Iterez prin vectorul de date de nastere si la fiecare iteratie scad anul
+nasterii din data curenta. Daca rezultatul e negativ pun 0. Verific dupa daca luna
+nasterii este mai mare decat daca curenta, daca da scad 1 din varsta. Daca lunile
+sunt egale, procedez la fel in cazul zilelor. Dupa verificari pun varsta obtinuta
+la pozitia corespunzatoare in vectorul de varste.
+Explicatii pt fiecare instructiune in comentarii
+
+task3
